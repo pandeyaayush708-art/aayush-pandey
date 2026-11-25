@@ -1,0 +1,6 @@
+{
+  "name": "DairyMitra AI 2.0",
+  "description": "Smart dairy farm management application for herd tracking, milk production analytics, health and treatment withdrawal safety, barn environment, water tank telemetry, and Arduino hardware integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
